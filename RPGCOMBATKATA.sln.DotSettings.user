@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c0df5ada_002D35fd_002D420f_002D97a9_002D47df35624857/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StartWith1000Health" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.StartWith1000Health&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.StartWithLeve1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.HaveHisHealthDecrementedToZeroWhenDamageReceivedHigherThanActualHealth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.HaveHisHealthDecrementedToZeroWhenDamageReceivedHigherThanActualHealthAndDie&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.NotHealMoreThan1000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.DealDamageToOthersButNotToHimself&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.BeAbleToHealHimselfButNoOthers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.HaveHisAttacksDamagedAppliedReducedBy50PercentIfOpponentLevelIs5LevelsOrMoreAboveHisLevel&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.HaveHisAttacksDamagedAppliedBoostedBy50PercentIfOpponentLevelIs5LevelsOrMoreBelowHisLevel&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.HaveAttackRangeTwoIfIsAMeleeFighter&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.OnlyBeAbleToDealDamageIfOpponentIsInRange&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
