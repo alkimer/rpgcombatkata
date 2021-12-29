@@ -4,7 +4,7 @@ public class BattleField
 {
     private Character[] _battleFieldPositions = new Character[100];
 
-    public void AddEnemy(Character player, int position)
+    public void AddCharacter(Character player, int position)
     {
         _battleFieldPositions[position] = player;
     }

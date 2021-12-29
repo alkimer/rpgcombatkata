@@ -12,5 +12,8 @@
     &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.HaveHisAttacksDamagedAppliedBoostedBy50PercentIfOpponentLevelIs5LevelsOrMoreBelowHisLevel&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.HaveAttackRangeTwoIfIsAMeleeFighter&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.OnlyBeAbleToDealDamageIfOpponentIsInRange&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.NotBeAbleToDamageAnAllie&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.BeAbleToHealOpponentIfHeIsAnAllie&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::787B0A1E-421F-BEA7-4F94-71928A42B680::.NETFramework,Version=v4.7.1::CharacterShould.NotBeAbleToHealOpponentIfHeIsNotAnAllie&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

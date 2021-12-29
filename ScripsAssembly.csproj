@@ -52,6 +52,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Faction.cs" />
      <Compile Include="Assets\Scripts\BattleField.cs" />
      <Compile Include="Assets\Scripts\Character.cs" />
      <None Include="Assets\Scripts\ScripsAssembly.asmdef" />
